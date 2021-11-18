@@ -34,5 +34,5 @@ Syntax highlighted code block
 | Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) 
 
 
-Please visit OIRL website for learning more about our different projects [https://sites.google.com/view/oirl/home]
-Please visit EAFIT website for learning more about our different projects [https://www.eafit.edu.co/investigacion/grupos/optica-aplicada/Paginas/inicio.aspx]
+Please visit [OIRL](https://sites.google.com/view/oirl/home) website for learning more about our different projects 
+Please visit [EAFIT](https://www.eafit.edu.co/investigacion/grupos/optica-aplicada/Paginas/inicio.aspx) website for learning more about our different projects 
