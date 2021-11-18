@@ -6,7 +6,6 @@ The conventional quantitative phase reconstruction in off-axis Digital Holograph
 ### Downloads
 Feel free to download the weights yielded during the training stage for the proposed cGAN model [click here](https://drive.google.com/file/d/1_rqEwZPCkF2W1NYLM6P2Czci3nDS4MYO/view?usp=sharing) 
 
-[raw tuDHM](https://drive.google.com/drive/folders/1JPoZdrmkjm8Ui-_fO_fzn1_BF_EVLScc)
 
 ### Funding and Acknowledgments
 *This project has received funding from The University of Memphis and the Herff College of Engineering. 
