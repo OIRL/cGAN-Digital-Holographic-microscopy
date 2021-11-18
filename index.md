@@ -8,18 +8,21 @@ Feel free to download the weights yielded during the training stage for the prop
 
 
 ### Funding and Acknowledgments
-*This project has received funding from The University of Memphis and the Herff College of Engineering. 
+*This project has received funding from The University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia).
 
 *The Centro de Computación Científica [Apolo](http://www.eafit.edu.co/apolo) at Universidad EAFIT  
 
+### Citation
+If using this information for publication, please kindly cite the following paper:
 
+R. Castaneda, C. Trujillo, and A. Doblas “Video-rate quantitative phase imaging using a digital holo-graphic microscope and a generative adversarial network.,” Sensors, under review (2021).
 
 ### Support or Contact
 
-| Researcher  | email | Google Scholar | ResearchGate |
+| Researcher  | email | Google Scholar | webSite |
 | ------------- | ------------- |-------------| -------------|
 | Raul Castaneda | *rcstdqnt@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
-| Carlos Trujillo | *catrujilla@eafit.edu.co* | [CarlosGoogle] | [CarlosEAFIT](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx)
+| Carlos Trujillo | *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) | [CarlosEAFIT](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx)
 | Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) 
 
 
