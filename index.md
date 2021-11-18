@@ -3,26 +3,16 @@
 
 The conventional quantitative phase reconstruction in off-axis Digital Holographic Microscopy (DHM) relies on computational processing. Regardless the implementation, any DHM computational processing leads to large processing times, hampering the use of DHM to video-rate renderings of dynamic biological processes. In this work, a conditional generative adversarial network (cGAN) for robust and fast quantitative phase imaging in DHM is reported. The reconstructed phase images provided by the GAN model present stable background levels, enhancing the visualization of the specimens for different experimental conditions. The proposed learning-based method has been trained and validated using human red blood cells. After proper training, the proposed GAN yields to a computationally efficient method, reconstructing DHM images 7X faster than conventional computational approaches. 
 
-You can use the [editor on GitHub](https://github.com/OIRL/cGAN-Digital-Holographic-microscopy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Downloads
+Feel free to download the weights yielded during the training stage for the proposed cGAN model [click here](https://drive.google.com/file/d/1_rqEwZPCkF2W1NYLM6P2Czci3nDS4MYO/view?usp=sharing) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[raw tuDHM](https://drive.google.com/drive/folders/1JPoZdrmkjm8Ui-_fO_fzn1_BF_EVLScc)
 
-### Markdown
+### Funding and Acknowledgments
+*This project has received funding from The University of Memphis and the Herff College of Engineering. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*The Centro de Computación Científica [Apolo](http://www.eafit.edu.co/apolo) at Universidad EAFIT  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 
 ### Support or Contact
@@ -35,4 +25,5 @@ Syntax highlighted code block
 
 
 Please visit [OIRL](https://sites.google.com/view/oirl/home) website for learning more about our different projects 
+
 Please visit [EAFIT](https://www.eafit.edu.co/investigacion/grupos/optica-aplicada/Paginas/inicio.aspx) website for learning more about our different projects 
