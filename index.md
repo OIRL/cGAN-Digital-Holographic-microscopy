@@ -8,14 +8,15 @@ Feel free to download the weights yielded during the training stage for the prop
 
 
 ### Funding and Acknowledgments
-*This project has received funding from The University of Memphis (Memphis, TN, United States) and EAFIT University (Medellin, Antioquia, Colombia).
+*This project was partially funded by the Vicerrectoría de Descubrimiento y Creación at Universidad EAFIT (Colombia), and the National Science Foundation (NSF) (grant number 2042563).
 
-*The Centro de Computación Científica [Apolo](http://www.eafit.edu.co/apolo) at Universidad EAFIT  
+
+*C. Trujillo thanks the supercomputing resources made available by the Centro de Computación Científica Apolo at Universidad EAFIT (http://www.eafit.edu.co/apolo (accessed on 20 November 2021)) to conduct the research reported in this scientific product. R. Castaneda and A. Doblas acknowledge the support from the University of Memphis and the Herff College of Engineering.
 
 ### Citation
 If using this information for publication, please kindly cite the following paper:
 
-R. Castaneda, C. Trujillo, and A. Doblas “Video-rate quantitative phase imaging using a digital holo-graphic microscope and a generative adversarial network.,” Sensors, under review (2021).
+R. Castaneda, C. Trujillo, and A. Doblas “Video-rate quantitative phase imaging using a digital holo-graphic microscope and a generative adversarial network.,” Sensors 21(23), 8021 (2021). https://doi.org/10.3390/s21238021
 
 ### Support or Contact
 
